@@ -60,6 +60,9 @@ Examples of combining teachable machine models to do something in p5.js :
 * Audio control : https://editor.p5js.org/auduno/sketches/8bQUExhTX
 * Medal + cheers with posenet : https://editor.p5js.org/auduno/sketches/OCo40cnQ7
 
+Bonus example:
+* Handpose in p5js : https://editor.p5js.org/yining/sketches/2dXLFrpl-
+
 Resources:
 * [p5.js](https://p5js.org/)
 * [ml5js](https://ml5js.org/)
